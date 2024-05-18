@@ -1,1 +1,1 @@
-# TerraTreasure
+# Rentify App
